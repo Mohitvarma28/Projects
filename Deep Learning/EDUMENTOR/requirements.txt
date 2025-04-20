@@ -1,0 +1,7 @@
+flask
+streamlit
+requests
+beautifulsoup4
+python-dotenv
+serpapi
+openai>=1.0.0

@@ -1,0 +1,756 @@
+[
+  {
+    "name": "JK",
+    "timestamp": "2025-04-17 18:00:40",
+    "score": 2,
+    "total": 10,
+    "answers": {
+      "q1": {
+        "selected": "A. The square of the correlation",
+        "correct": "C",
+        "explanation": "Explanation: Linear regression estimates the best possible straight-line fit or regression line for the given data points."
+      },
+      "q2": {
+        "selected": "B. Regression Projection",
+        "correct": "C",
+        "explanation": "Explanation: Multiple linear regression models the relationship between two or more features and a response by fitting a linear equation to observed data."
+      },
+      "q3": {
+        "selected": "B. Autocorrelation",
+        "correct": "C",
+        "explanation": "Explanation: Violation of Homoscedasticity (equal variance) assumption means that residuals are not identically distributed."
+      },
+      "q4": {
+        "selected": "C. Residual",
+        "correct": "C",
+        "explanation": "Explanation: The error term in a linear regression model is also known as the Residual."
+      },
+      "q5": {
+        "selected": "B. Multicollinearity ",
+        "correct": "A",
+        "explanation": "Explanation: This problem is referred to as \"Overfitting\". Overfitting happens when a model learns the training data too well. It learns not only the relationships among data but also the noise in the data."
+      },
+      "q6": {
+        "selected": "C. Constant variances of the errors",
+        "correct": "D",
+        "explanation": "Explanation: All these are assumptions in linear regression. They are all necessary to ensure a reliable prediction and interpretation of the parameters from linear regression."
+      },
+      "q7": {
+        "selected": "D. All of the above",
+        "correct": "D",
+        "explanation": "Explanation: All of these measures can be used to evaluate and compare different linear regression models."
+      },
+      "q8": {
+        "selected": "C. Situation when dependent variable can be linearly predicted",
+        "correct": "B",
+        "explanation": "Explanation: Multicollinearity is the situation when one independent variable can be linearly predicted from the others with a substantial degree of accuracy."
+      },
+      "q9": {
+        "selected": "D. An unbiased model",
+        "correct": "B",
+        "explanation": "Explanation: A higher R-squared value implies a more accurate model. R-squared value explains the proportion of the variance in the dependent variable that is predictable from the independent variables. Higher the value, better the model."
+      },
+      "q10": {
+        "selected": "B. Represent the slope of regression line",
+        "correct": "A",
+        "explanation": "Explanation: The Intercept in a Linear Regression model is used to predict the dependent variable when all independent variables are zero. It is the expected mean value of Y when all X = 0."
+      }
+    }
+  },
+  {
+    "name": "AB",
+    "timestamp": "2025-04-17 18:01:44",
+    "score": 6,
+    "total": 10,
+    "answers": {
+      "q1": {
+        "selected": "B. It states that the sample means approaches the population mean.",
+        "correct": "A",
+        "explanation": "Explanation: The Central Limit Theorem states that if you have a population with mean \u03bc and standard deviation \u03c3 and take sufficiently large random samples from the population with replacement, then the distribution of the sample means will approach a normal distribution."
+      },
+      "q2": {
+        "selected": "A. It reshapes data from wide to long format.",
+        "correct": "A",
+        "explanation": "Explanation: pd.melt() is a function used to change the DataFrame format from wide to long."
+      },
+      "q3": {
+        "selected": "C. It calculates the percentile(s) given the input array and qth percentile.",
+        "correct": "C",
+        "explanation": "Explanation: np.percentile() is used to compute the qth percentile of the data along the specified axis in NumPy."
+      },
+      "q4": {
+        "selected": "C. Population parameters are the measures that summarize and describe a population; sample statistics are the measures that summarize and describe a sample.",
+        "correct": "C",
+        "explanation": "Explanation: Population parameters describe the population while sample statistics describe a sample from the population."
+      },
+      "q5": {
+        "selected": "C. It is a three-dimensional labelled data structure with columns of potentially different types.",
+        "correct": "B",
+        "explanation": "Explanation: A DataFrame is a two-dimensional labelled data structure with columns of potentially different types."
+      },
+      "q6": {
+        "selected": "A. It changes the shape of an array without changing its data.",
+        "correct": "A",
+        "explanation": "Explanation: np.reshape() gives a new shape to an array without changing its data."
+      },
+      "q7": {
+        "selected": "C. A type of distribution where one outcome is most likely.",
+        "correct": "A",
+        "explanation": "Explanation: A Uniform Distribution is a type of probability distribution in which all outcomes are equally likely."
+      },
+      "q8": {
+        "selected": "D. It does not concatenate pandas objects.",
+        "correct": "A",
+        "explanation": "Explanation: pd.concat() allows concatenation of DataFrame objects along a particular axis."
+      },
+      "q9": {
+        "selected": "A. It returns evenly spaced values within a given interval.",
+        "correct": "A",
+        "explanation": "Explanation: np.arange() is a function that returns evenly spaced values within a certain interval."
+      },
+      "q10": {
+        "selected": "B. A distribution where values are distributed symmetrically around the mean.",
+        "correct": "B",
+        "explanation": "Explanation: A Normal Distribution is a type of continuous probability distribution for a real-valued random variable. The general form of its probability density function is symmetrical, with its peak at the mean."
+      }
+    }
+  },
+  {
+    "name": "JK",
+    "timestamp": "2025-04-17 18:22:49",
+    "score": 0,
+    "total": 10,
+    "answers": {
+      "q1": {
+        "selected": null,
+        "correct": "B",
+        "explanation": "Explanation: Generative AI refers to types of artificial intelligence that are capable of creating new, previously unseen outputs."
+      },
+      "q2": {
+        "selected": null,
+        "correct": "B",
+        "explanation": "Explanation: The most used models in Generative AI are Generative Adversarial Networks (GANs) and Variational Autoencoders (VAEs)."
+      },
+      "q3": {
+        "selected": null,
+        "correct": "C",
+        "explanation": "Explanation: A Generative Adversarial Network consists of two neural networks \u2013 a generator and a discriminator \u2013 that compete with each other in a zero-sum game framework."
+      },
+      "q4": {
+        "selected": null,
+        "correct": "B",
+        "explanation": "Explanation: The discriminator tries to distinguish the generated data from the original data - it strives to determine if the output was created by the generator."
+      },
+      "q5": {
+        "selected": null,
+        "correct": "A",
+        "explanation": "Explanation: Generative AI, especially GANs, require a large amount of computational power and time, making the technology inaccessible for some users or projects."
+      },
+      "q6": {
+        "selected": null,
+        "correct": "C",
+        "explanation": "Explanation: Generative AI is typically used for creation of images, text generation, and creating synthetic data for AI training, but not for custom programming."
+      },
+      "q7": {
+        "selected": null,
+        "correct": "B",
+        "explanation": "Explanation: Variational Autoencoders are a type of generative model that aim to encode an input into a fixed-size representation and then reconstruct it."
+      },
+      "q8": {
+        "selected": null,
+        "correct": "C",
+        "explanation": "Explanation: Latent space refers to the abstract representation of data in an encoded, lower-dimensional format."
+      },
+      "q9": {
+        "selected": null,
+        "correct": "D",
+        "explanation": "Explanation: Generative AI models learn patterns from the training data they are provided."
+      },
+      "q10": {
+        "selected": null,
+        "correct": "C",
+        "explanation": "Explanation: The \"Adversarial\" in Generative Adversarial Networks refers to the concept of game theory where two networks (generator and discriminator) play a game against each other."
+      }
+    }
+  },
+  {
+    "name": "JK",
+    "timestamp": "2025-04-17 18:24:25",
+    "score": 1,
+    "total": 10,
+    "answers": {
+      "q1": {
+        "selected": "D. They completely eliminate the need for data preprocessing.",
+        "correct": "B",
+        "explanation": "Explanation: Large language models like GPT-3 can understand context and generate human-like text because they are trained on vast amounts of text data and have learned to predict the probability of a word given the previous words used in the text."
+      },
+      "q2": {
+        "selected": "B. They are unable to generate code.",
+        "correct": "C",
+        "explanation": "Explanation: Large language models can contain inherent biases as they learn from vast quantities of internet text, which itself can contain various biases. This can result in models that inadvertently generate biased or inappropriate content."
+      },
+      "q3": {
+        "selected": "D. A type of model architecture that handles the dependencies between words in a text.",
+        "correct": "D",
+        "explanation": "Explanation: The Transformer is a type of model architecture used in natural language processing tasks that effectively handles the dependencies between words in a text, regardless of their distance from each other."
+      },
+      "q4": {
+        "selected": "A. Adjusting the hardware to improve computational speed.",
+        "correct": "B",
+        "explanation": "Explanation: Fine-tuning refers to the practice of further training a pre-trained model on a specific task to help boost its performance."
+      },
+      "q5": {
+        "selected": "D. A technique to align model predictions with human preferences.",
+        "correct": "B",
+        "explanation": "Explanation: Prompt engineering refers to the practice of carefully crafting the input prompts to the model in order to guide the model towards producing the desired output."
+      },
+      "q6": {
+        "selected": "A. They assign a single, fixed meaning to each word.",
+        "correct": "C",
+        "explanation": "Explanation: Large language models determine the meaning of words with multiple meanings, like 'bank' (a financial institution or the side of a river), based on the context of the sentence."
+      },
+      "q7": {
+        "selected": "B. Because they require high-quality GPUs.",
+        "correct": "D",
+        "explanation": "Explanation: Training large language models requires considerable computational resources due to the vast amounts of data for training, the need for high-quality GPUs, and the requirement to process vast amounts of information simultaneously."
+      },
+      "q8": {
+        "selected": "C. They can directly answer any questions regarding fairness and equity.",
+        "correct": "B",
+        "explanation": "Explanation: Large language models are often trained on diverse internet text, which may contain biases. This makes assessing their fairness and equity a challenge, as any biases in the training data can potentially be learned by the models."
+      },
+      "q9": {
+        "selected": "C. The issue of handling data that is outside the model's specified input scope.",
+        "correct": "D",
+        "explanation": "Explanation: The \"out-of-distribution\" problem refers to how large language models tend to perform poorly or unpredictably when presented with data that they have never seen before or data that is outside the model's specified input scope."
+      },
+      "q10": {
+        "selected": "D. It pauses data processing to allow for error correction.",
+        "correct": "A",
+        "explanation": "Explanation: In large language models, a stop token is typically used to indicate the end of a sequence or sentence during prediction. It helps determine when a generated output should end."
+      }
+    }
+  },
+  {
+    "name": "AB",
+    "timestamp": "2025-04-20 02:42:57",
+    "score": 7,
+    "total": 10,
+    "answers": {
+      "q1": {
+        "selected": "C. Mobile app automation testing",
+        "correct": "C",
+        "explanation": "Explanation: Appium is an open-source tool for automating native, mobile web, and hybrid applications on iOS and Android platforms."
+      },
+      "q2": {
+        "selected": "A. REpresentational State Transfer",
+        "correct": "A",
+        "explanation": "Explanation: REST stands for REpresentational State Transfer. It is an architectural style for distributed hypermedia systems."
+      },
+      "q3": {
+        "selected": "C. Java",
+        "correct": "B",
+        "explanation": "Explanation: Appium is written in Javascript using Node.js platform."
+      },
+      "q4": {
+        "selected": "A. SOAP APIs",
+        "correct": "D",
+        "explanation": "Explanation: Appium supports all types of APIs including SOAP, RESTful, and JSON-RPC."
+      },
+      "q5": {
+        "selected": "B. POST",
+        "correct": "D",
+        "explanation": "Explanation: There are four basic HTTP methods in a REST API: GET, POST, PUT, and DELETE. EDIT is not one of them."
+      },
+      "q6": {
+        "selected": "C. It allows tests on physical devices as well as emulator or simulator both.",
+        "correct": "C",
+        "explanation": "Explanation: One of the important features of Appium is that it allows tests to run on both physical devices and emulator or simulator."
+      },
+      "q7": {
+        "selected": "A. A service available at a particular URL",
+        "correct": "A",
+        "explanation": "Explanation: In the context of an API, a resource refers to a service available at a particular URL."
+      },
+      "q8": {
+        "selected": "C. Application Programming Interface",
+        "correct": "C",
+        "explanation": "Explanation: API stands for Application Programming Interface."
+      },
+      "q9": {
+        "selected": "D. All of the above",
+        "correct": "D",
+        "explanation": "Explanation: All options listed are the principles of API design: simplicity and flexibility, service evolution, and controlling access."
+      },
+      "q10": {
+        "selected": "C. It involves testing the interaction between different software systems via their APIs.",
+        "correct": "C",
+        "explanation": "Explanation: API testing involves testing the interaction between different software systems via their APIs."
+      }
+    }
+  },
+  {
+    "name": "RN",
+    "timestamp": "2025-04-20 02:47:18",
+    "score": 6,
+    "total": 10,
+    "answers": {
+      "q1": {
+        "selected": "C. A subset of machine learning that is based on artificial neural networks.",
+        "correct": "C",
+        "explanation": "Explanation: Deep Learning is a subset of machine learning that is based on artificial neural networks. It allows computational models that are made up of multiple processing layers to learn representations of data with multiple levels of abstraction."
+      },
+      "q2": {
+        "selected": "B. To allow the model to learn complex data patterns.",
+        "correct": "B",
+        "explanation": "Explanation: Activation functions in deep learning introduce non-linearity into the output of a neuron, which in turn helps the model to learn and understand complex data patterns."
+      },
+      "q3": {
+        "selected": "A. A technique for optimizing the weights of a neural network.",
+        "correct": "A",
+        "explanation": "Explanation: Backpropagation is a method used to optimize the weights of a neural network by setting the gradient of the loss function with respect to these weights."
+      },
+      "q4": {
+        "selected": "B. Image and video processing.",
+        "correct": "B",
+        "explanation": "Explanation: Although CNNs can be used for different tasks, they are most commonly used for image and video processing due to their architecture's ability to encode local spatial relationships."
+      },
+      "q5": {
+        "selected": "B. Image recognition.",
+        "correct": "C",
+        "explanation": "Explanation: RNNs are particularly suited for sequence data like time series or text because they can utilize their internal state (memory) to process sequences of inputs."
+      },
+      "q6": {
+        "selected": "B. A full forward and backward pass of all samples.",
+        "correct": "B",
+        "explanation": "Explanation: In deep learning, an epoch is a term used for one forward pass and one backward pass of all the training examples in the model."
+      },
+      "q7": {
+        "selected": "B. When the model takes too long to train.",
+        "correct": "A",
+        "explanation": "Explanation: Overfitting refers to a model that models the training data too well. It captures noise in the training data and performs poorly on new, unseen data."
+      },
+      "q8": {
+        "selected": "B. It improves the model's ability to generalize by randomly ignoring some neurons during training.",
+        "correct": "B",
+        "explanation": "Explanation: The \u201cdropout\u201d method is a regularization technique in deep learning that prevents complex co-adaptations on training data by randomly ignoring some neurons during training, hence improving the model's ability to generalize."
+      },
+      "q9": {
+        "selected": "A. A method of transferring data between different neural networks.",
+        "correct": "C",
+        "explanation": "Explanation: Transfer learning is a technique where a pre-trained model is used on a new, similar problem. It lets the model use the knowledge gained from a previous problem to solve a new, related problem."
+      },
+      "q10": {
+        "selected": "A. Sound recognition.",
+        "correct": "B",
+        "explanation": "Explanation: Autoencoders are neural networks that are used to reconstruct input data, commonly used for tasks such as anomaly detection and data compression."
+      }
+    }
+  },
+  {
+    "name": "RN",
+    "timestamp": "2025-04-20 02:52:25",
+    "score": 8,
+    "total": 10,
+    "answers": {
+      "q1": {
+        "selected": "C. To perform a specific action until a condition is met.",
+        "correct": "C",
+        "explanation": "Explanation: In Python, a loop is typically used to execute a block of code repeatedly until a certain condition is met."
+      },
+      "q2": {
+        "selected": "A. Two",
+        "correct": "A",
+        "explanation": "Explanation: Python supports two types of loops: 'for' and 'while'."
+      },
+      "q3": {
+        "selected": "B. Break",
+        "correct": "B",
+        "explanation": "Explanation: The 'break' keyword is used in Python to stop the loop before it has run through all the iterations."
+      },
+      "q4": {
+        "selected": "C. The loop will become an infinite loop.",
+        "correct": "C",
+        "explanation": "Explanation: If the iterator in a 'while' loop is not updated, the condition will never change. As a result, the loop will run indefinitely, creating an infinite loop."
+      },
+      "q5": {
+        "selected": "D. A data type that can be iterated over using a loop.",
+        "correct": "D",
+        "explanation": "Explanation: An iterable is a data object capable of returning its members one at a time. Strings, lists, tuples, dictionaries and sets are all iterable objects."
+      },
+      "q6": {
+        "selected": "C. Skip",
+        "correct": "B",
+        "explanation": "Explanation: The 'continue' keyword is used in loops to skip the current iteration and proceed to the next one."
+      },
+      "q7": {
+        "selected": "B. A list of integers.",
+        "correct": "C",
+        "explanation": "Explanation: The 'range()' function in Python returns a sequence of numbers, starting from 0 by default, and increments by 1 (also default), and stops before a specified number."
+      },
+      "q8": {
+        "selected": "B. 'while' loop without an iteration statement.",
+        "correct": "B",
+        "explanation": "Explanation: A 'while' loop without an iteration statement will run indefinitely until external interruption because the condition will never change, thereby resulting in an infinite loop."
+      },
+      "q9": {
+        "selected": "A. The loop will iterate over each character.",
+        "correct": "A",
+        "explanation": "Explanation: In a Python 'for' loop, if the iterable is a string, it will iterate over each character in the string."
+      },
+      "q10": {
+        "selected": "A. Using the 'enumerate()' function.",
+        "correct": "A",
+        "explanation": "Explanation: The 'enumerate()' function is used in Python to loop over an iterable and its index simultaneously."
+      }
+    }
+  },
+  {
+    "name": "RN",
+    "timestamp": "2025-04-20 11:01:46",
+    "score": 4,
+    "total": 10,
+    "answers": {
+      "q1": {
+        "selected": "C. To provide high-performance multi-dimensional array object.",
+        "correct": "C",
+        "explanation": "Explanation: Numpy's main purpose is to provide high-performance multi-dimensional array object for performing complex mathematical operations."
+      },
+      "q2": {
+        "selected": "B. It arranges elements in an array in increasing order.",
+        "correct": "A",
+        "explanation": "Explanation: np.arange() creates an array of evenly spaced values within a defined interval. It is similar to Python's built-in range function but returns an array."
+      },
+      "q3": {
+        "selected": "D. It applies operations on a random selection of elements.",
+        "correct": "A",
+        "explanation": "Explanation: Numpy applies arithmetic operations \"elementwise,\" meaning operations are applied to corresponding elements in arrays."
+      },
+      "q4": {
+        "selected": "C. It checks if the dot product of two arrays is possible.",
+        "correct": "B",
+        "explanation": "Explanation: np.dot() returns the dot product of two arrays. If both arguments are 1-D arrays, it performs inner product of vectors."
+      },
+      "q5": {
+        "selected": "C. A central database for storing Python objects.",
+        "correct": "D",
+        "explanation": "Explanation: A numpy matrix is a specialised 2-D array in numpy with operations, like matrix multiplication, behave as in linear algebra."
+      },
+      "q6": {
+        "selected": "B. np.zeros()",
+        "correct": "B",
+        "explanation": "Explanation: In numpy, the np.zeros() function generates an array filled with zeros."
+      },
+      "q7": {
+        "selected": "C. It reshapes the data within the array.",
+        "correct": "B",
+        "explanation": "Explanation: np.reshape() provides a new shape to an array without changing its data. It allows the changing of the arrangement of items so that the shape of the array is modified."
+      },
+      "q8": {
+        "selected": "D. Division by zero",
+        "correct": "D",
+        "explanation": "Explanation: Division by zero is technically not an operation provided, but rather numpy gives a run-time warning when it occurs and replaces it with inf (infinity) or nan (not a number)."
+      },
+      "q9": {
+        "selected": "C. Converts an array into a transpose matrix.",
+        "correct": "C",
+        "explanation": "Explanation: np.transpose() permutes the dimensions of an array. It returns the array with its axes transposed; essentially, it converts an array into a transpose matrix."
+      },
+      "q10": {
+        "selected": "D. Changes the dimension of the array.",
+        "correct": "A",
+        "explanation": "Explanation: ndarray.ndim is an array attribute that returns the number of array dimensions, not calculating or changing them."
+      }
+    }
+  },
+  {
+    "name": "RN",
+    "timestamp": "2025-04-20 11:10:21",
+    "score": 3,
+    "total": 10,
+    "answers": {
+      "q1": {
+        "selected": "A. The number of clusters the algorithm will create.",
+        "correct": "D",
+        "explanation": "Explanation: The k in k-NN algorithm stands for the number of nearest neighbors the algorithm should consider when making a new prediction."
+      },
+      "q2": {
+        "selected": "D. F1 Score",
+        "correct": "D",
+        "explanation": "Explanation: F1 Score is a metric used for evaluating classification tasks. It is not suitable for regression tasks where the target value is a real number."
+      },
+      "q3": {
+        "selected": "B. It represents a decision boundary.",
+        "correct": "A",
+        "explanation": "Explanation: In a Decision Tree, a node represents an attribute or feature upon which we are splitting the data."
+      },
+      "q4": {
+        "selected": "C. A line that maximizes the margin (distance) between two classes.",
+        "correct": "C",
+        "explanation": "Explanation: In SVM, a hyperplane is a decision boundary that is used to categorize data points. It is chosen to maximize the distance between itself and the nearest data point of each class, hence the option C is correct."
+      },
+      "q5": {
+        "selected": "D. Prototyping",
+        "correct": "D",
+        "explanation": "Explanation: Boosting, Bagging, and Stacking are all methods of ensemble learning. Prototyping is not an ensemble learning method."
+      },
+      "q6": {
+        "selected": "C. Bagging is a type of supervised learning, and boosting is unsupervised.",
+        "correct": "B",
+        "explanation": "Explanation: The key difference between bagging and boosting methods is that bagging methods build independent predictors and combine them following a certain rule (majority vote, function of the predictions), while boosting methods build predictors in a sequential way where each predictor learns from the errors of its predecessor."
+      },
+      "q7": {
+        "selected": "C. The bias is the amount of epochs that the algorithm needs to learn.",
+        "correct": "A",
+        "explanation": "Explanation: In machine learning, algorithm bias refers to the error introduced by approximating a real-world problem to fit into a chosen model. This error is the result of erroneous assumptions in the learning algorithm."
+      },
+      "q8": {
+        "selected": "B. Yes, but only numerical variables.",
+        "correct": "C",
+        "explanation": "Explanation: Decision trees can handle both categorical and numerical variables. It has a mechanism to handle categorical variables and numerical variables are handled by defining regions divided by the decision boundaries."
+      },
+      "q9": {
+        "selected": "B. The accuracy of the model.",
+        "correct": "D",
+        "explanation": "Explanation: The learning rate in gradient descent impacts both the speed at which the model learns (too high a learning rate might result in overshooting the minimum) and the number of iterations (too low a learning rate might require more iterations to converge to the minimum)."
+      },
+      "q10": {
+        "selected": "B. When a model fails to capture important aspects of the data.",
+        "correct": "A",
+        "explanation": "Explanation: Overfitting in Machine Learning refers to a situation where a model learns the details and the noise in the training data to the extent where it negatively impacts the model's ability to generalize from our model and perform well on unseen data."
+      }
+    }
+  },
+  {
+    "name": "AB",
+    "timestamp": "2025-04-20 11:20:39",
+    "score": 8,
+    "total": 10,
+    "answers": {
+      "q1": {
+        "selected": "C. Linear Regression",
+        "correct": "C",
+        "explanation": "Explanation: Linear Regression is a statistical method used in Machine Learning for prediction-based tasks (regression) rather than classification tasks."
+      },
+      "q2": {
+        "selected": "D. Principal Component Analysis (PCA)",
+        "correct": "D",
+        "explanation": "Explanation: Principal Component Analysis (PCA) is widely used for dimensionality reduction in Machine Learning."
+      },
+      "q3": {
+        "selected": "B. Boosting",
+        "correct": "B",
+        "explanation": "Explanation: Boosting is a type of ensemble machine learning algorithm where several weak learners are combined to produce a powerful learner."
+      },
+      "q4": {
+        "selected": "A. Classify data into multiple categories.",
+        "correct": "B",
+        "explanation": "Explanation: Support Vector Machine (SVM) is a supervised machine learning algorithm used for binary classification problems - it divides data into two categories."
+      },
+      "q5": {
+        "selected": "B. Supervised Learning algorithm",
+        "correct": "B",
+        "explanation": "Explanation: k-nearest neighbors is a type of Supervised Learning algorithm. It classifies an object based on majority votes of its neighbors, with the object being assigned to the class most common among its k nearest neighbors."
+      },
+      "q6": {
+        "selected": "C. Reinforcement Learning",
+        "correct": "C",
+        "explanation": "Explanation: Reinforcement Learning involves an agent that learns to behave in an environment, by performing certain actions and observing the results/rewards."
+      },
+      "q7": {
+        "selected": "C. Both A and B",
+        "correct": "C",
+        "explanation": "Explanation: The 'kernel trick' involves transforming the linearly inseparable data into linearly separable one by increasing the dimension of the given data."
+      },
+      "q8": {
+        "selected": "D. All of the above.",
+        "correct": "D",
+        "explanation": "Explanation: All the points mentioned are reasons for using dimensionality reduction. It can help in data compression, faster learning and avoiding overfitting in Machine Learning models."
+      },
+      "q9": {
+        "selected": "D. Both A and C.",
+        "correct": "D",
+        "explanation": "Explanation: Bias is the error due to overly simplistic assumptions in the learning algorithm which leads to underfitting."
+      },
+      "q10": {
+        "selected": "D. All of the above.",
+        "correct": "C",
+        "explanation": "Explanation: Using more training data is an effective strategy to prevent overfitting in a machine learning model. The more diverse examples a model is trained on, the better it will generalize to new, unseen data."
+      }
+    }
+  },
+  {
+    "name": "AB",
+    "timestamp": "2025-04-20 13:29:05",
+    "score": 0,
+    "total": 10,
+    "answers": {
+      "q1": {
+        "selected": null,
+        "correct": "B",
+        "explanation": "Explanation: A heuristic is an AI technique that provides a shortcut for solving complex tasks or algorithms. It uses problem-specific knowledge beyond the basic mechanics of the problem to provide better solutions."
+      },
+      "q2": {
+        "selected": null,
+        "correct": "A",
+        "explanation": "Explanation: Reinforcement learning is a type of machine learning where an agent learns to behave in an environment, by performing certain actions and observing the results/effects of those actions."
+      },
+      "q3": {
+        "selected": null,
+        "correct": "C",
+        "explanation": "Explanation: The perceptron is an algorithm for supervised learning of binary classifiers. This algorithm enables neurons to learn and processes elements in the training set one at a time."
+      },
+      "q4": {
+        "selected": null,
+        "correct": "D",
+        "explanation": "Explanation: \u2018A* search algorithm\u2019 is a popular AI algorithm that aims to find the least costly path, expand the least number of nodes, and find the path that uses the fewest steps."
+      },
+      "q5": {
+        "selected": null,
+        "correct": "B",
+        "explanation": "Explanation: Overfitting in machine learning occurs when a model learns from too much detail and noise in the training data, which can negatively affect the model's performance on new, unseen data."
+      },
+      "q6": {
+        "selected": null,
+        "correct": "B",
+        "explanation": "Explanation: AI uses Natural Language Processing (NLP) for translating web pages into different languages as it helps to understand, interpret, and generate languages that people use naturally."
+      },
+      "q7": {
+        "selected": null,
+        "correct": "C",
+        "explanation": "Explanation: Neural networks are a subset of AI that mimics the behavior of a human brain for the representation of and learning of data."
+      },
+      "q8": {
+        "selected": null,
+        "correct": "B",
+        "explanation": "Explanation: The term \"Artificial Intelligence\" was coined by John McCarthy in 1956, at the Dartmouth conference where the field of AI research was born."
+      },
+      "q9": {
+        "selected": null,
+        "correct": "A",
+        "explanation": "Explanation: Fuzzy logic is a computational paradigm capable of modeling the kind of uncertainty associated with human cognitive processes, like thinking and reasoning. It helps in solving problems with imprecise information."
+      },
+      "q10": {
+        "selected": null,
+        "correct": "A",
+        "explanation": "Explanation: SVM or Support Vector Machines is a well-known algorithm in machine learning that can be used for both regression and classification tasks, and it handles both linear and non-linear data."
+      }
+    }
+  },
+  {
+    "name": "AB",
+    "timestamp": "2025-04-20 14:01:35",
+    "score": 0,
+    "total": 10,
+    "answers": {
+      "q1": {
+        "selected": null,
+        "correct": "B",
+        "explanation": "Explanation: AI stands for Artificial Intelligence, a branch of computer science deals with creating machines operate similar to human intelligence."
+      },
+      "q2": {
+        "selected": null,
+        "correct": "B",
+        "explanation": "Explanation: John McCarthy, an American computer scientist, coined the term \"Artificial Intelligence\" and is often called the Father of AI."
+      },
+      "q3": {
+        "selected": null,
+        "correct": "A",
+        "explanation": "Explanation: Self-learning systems in AI are autonomous systems that can learn and improve performance by themselves without explicit programming."
+      },
+      "q4": {
+        "selected": null,
+        "correct": "B",
+        "explanation": "Explanation: Machine learning is a subset of AI that enables a system to learn from data i.e., updating its algorithms based on experience to improve its performance."
+      },
+      "q5": {
+        "selected": null,
+        "correct": "C",
+        "explanation": "Explanation: Deep Learning is a subfield of machine learning where algorithms are created and function similarly to those in machine learning, but there are numerous layers of these algorithms--each providing a different interpretation on the data it feeds on."
+      },
+      "q6": {
+        "selected": null,
+        "correct": "A",
+        "explanation": "Explanation: The purpose of an Artificial Neural Network (ANN) is to replicate the functions of a human brain in order to 'learn' from vast amounts of data."
+      },
+      "q7": {
+        "selected": null,
+        "correct": "A",
+        "explanation": "Explanation: Natural language processing is the AI method of interaction with intelligent systems using a natural language like English."
+      },
+      "q8": {
+        "selected": null,
+        "correct": "D",
+        "explanation": "Explanation: The primary goal of AI is to create systems that can understand, think, learn, and behave like humans."
+      },
+      "q9": {
+        "selected": null,
+        "correct": "D",
+        "explanation": "Explanation: All of above options; predicting the stock market, music and video streaming recommendations, autonomous vehicles are examples of AI applications."
+      },
+      "q10": {
+        "selected": null,
+        "correct": "A",
+        "explanation": "Explanation: AI is a broader concept of machines being able to carry out tasks smartly while machine learning is an application of AI where we give machines access to data and let them learn for themselves."
+      }
+    }
+  },
+  {
+    "name": "AB",
+    "timestamp": "2025-04-20 14:35:17",
+    "score": 10,
+    "total": 10,
+    "answers": {
+      "q1": {
+        "selected": "A. Artificial Intelligence.",
+        "correct": "A",
+        "explanation": "Explanation: AI stands for Artificial Intelligence, which relates to the creation of machines or programs that can perform tasks typically requiring human intelligence."
+      },
+      "q2": {
+        "selected": "C. General AI.",
+        "correct": "C",
+        "explanation": "Explanation: General AI, also known as artificial general intelligence, is designed to understand, learn, and react like a human, including understanding context and making judgments."
+      },
+      "q3": {
+        "selected": "A. Machine Learning.",
+        "correct": "A",
+        "explanation": "Explanation: Machine Learning is a subset of AI that focuses on the development of algorithms and statistical models that allow machines to improve their performance over time based on experience."
+      },
+      "q4": {
+        "selected": "B. Machine learning is a subset of AI.",
+        "correct": "B",
+        "explanation": "Explanation: Machine Learning is a subset of AI which provides systems the ability to learn and improve from experience without being explicitly programmed."
+      },
+      "q5": {
+        "selected": "C. Python.",
+        "correct": "C",
+        "explanation": "Explanation: Python is commonly used in AI programming due to its ease of readability, simple syntax, and wide range of libraries that support AI and Machine Learning."
+      },
+      "q6": {
+        "selected": "B. A type of machine learning based on artificial neural networks.",
+        "correct": "B",
+        "explanation": "Explanation: Deep Learning is a branch of machine learning based on artificial neural networks, allowing algorithms to study and understand complex patterns and representations."
+      },
+      "q7": {
+        "selected": "B. A model that uses a training set to learn a link between the input and the outputs.",
+        "correct": "B",
+        "explanation": "Explanation: Supervised learning in AI is a type of machine learning where a model is trained using labeled data, i.e. it learns a link between the input and the outputs."
+      },
+      "q8": {
+        "selected": "C. Rewarding or punishing a program based on its performance.",
+        "correct": "C",
+        "explanation": "Explanation: Reinforcement Learning is a type of machine learning where an agent learns to make decisions by performing certain actions in an environment to maximize some type of reward or minimize punishment."
+      },
+      "q9": {
+        "selected": "B. Natural Language Processing. ",
+        "correct": "B",
+        "explanation": "Explanation: In the context of AI, NLP stands for Natural Language Processing. It is a field of AI that gives the machines the ability to read, understand, and derive meaning from human languages."
+      },
+      "q10": {
+        "selected": "B. Chatbots.",
+        "correct": "B",
+        "explanation": "Explanation: Chatbots are AI systems that are designed to mimic human conversation and interaction. They are most commonly used in customer service and information retrieval scenarios."
+      }
+    }
+  }
+]
