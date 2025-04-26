@@ -48,7 +48,7 @@ This repository brings together my work in Data Science, Machine Learning, Deep 
 
 ## 🏢 Tools and Technologies Used
 - **Programming**: Python (pandas, sklearn, TensorFlow, keras, seaborn, matplotlib, dash, plotly), SQL (MySQL, SQLite)
-- **AI/ Deep Learning Frameworks**: TensorFlow, Keras, N8n, Open AI, Langchain
+- **AI/ Deep Learning Frameworks**: TensorFlow, Keras, N8n, Open AI, Langchain, NLP
 - **Visualization**: Tableau, Dash, Matplotlib, Seaborn
 - **Others**: OpenCV, Scikit-learn, XGBoost, Streamlit
 - **Databases**: SQLite, MySQL
