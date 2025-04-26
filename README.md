@@ -33,8 +33,9 @@ This repository brings together my work in Data Science, Machine Learning, Deep 
   Developed a real-time face mask detection system using TensorFlow and OpenCV to identify whether a person is wearing a mask correctly.
 
 - **EduMentor Collaboration**:  
-  Participated in EduMentor's guided deep learning projects, gaining practical experience with image classification, CNN architectures, transfer learning, and model deployment strategies.
-
+  Learning Path Generator and Quiz Automation System**  
+  Designed an intelligent platform that generates personalized learning paths and quizzes for students using Serper API for knowledge search.  
+  Built backend APIs with **Flask** and deployed interactive interfaces using **Streamlit** to deliver dynamic student experiences.
 ---
 
 ## 📈 Tableau Dashboards
