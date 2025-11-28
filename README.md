@@ -46,9 +46,79 @@ This repository brings together my work in Data Science, Machine Learning, Deep 
 
 ---
 
-## 🏢 Tools and Technologies Used
-- **Programming**: Python (pandas, sklearn, TensorFlow, keras, seaborn, matplotlib, dash, plotly), SQL (MySQL, SQLite)
-- **AI/ Deep Learning Frameworks**: TensorFlow, Keras, N8n, Open AI, Langchain, NLP
-- **Visualization**: Tableau, Dash, Matplotlib, Seaborn
-- **Others**: OpenCV, Scikit-learn, XGBoost, Streamlit
-- **Databases**: SQLite, MySQL
+🧠 AI, LLMs & Agentic Systems
+- I design intelligent systems using LLMs and multi-agent workflows:
+
+- Built multi-agent pipelines with LangGraph to automate decision-making, retrieval, and context management.
+
+- Developed tool-using agents in LangChain for search, summarization, evaluation, and API-driven tasks.
+
+- Integrated OpenAI Assistants & APIs to power reasoning, planning, and conversational intelligence.
+
+- Implemented ChromaDB vector stores for semantic search and retrieval-augmented generation (RAG).
+
+- Created domain-specific RAG systems for meal planning, education platforms, and automation tools.
+
+- Used HuggingFace Transformers & SpaCy for NER, text classification, embeddings, and NLP pipelines.
+
+- Leveraged OpenAI, BGE, and MiniLM embeddings in recommender systems and intelligent search flows.
+---
+
+🔧 Cloud, ETL & Orchestration Frameworks
+- I architect production-grade data systems on modern cloud platforms:
+
+- Built PySpark + Delta Lake pipelines on Azure Databricks for large-scale ETL and data modeling.
+
+- Automated ingestion using Azure Data Factory (ADF) with event triggers and incremental loading.
+
+- Leveraged Microsoft Fabric for unified analytics, warehouse insights, and governance workflows.
+
+- Developed Airflow DAGs for scheduled ETL, monitoring, and automated model retraining.
+
+- Implemented Kafka streaming pipelines for real-time anomaly detection and log ingestion.
+
+- Modeled transformation layers using DBT for maintainable and auditable data workflows.
+
+- Tracked ML experiments and deployments using MLflow, improving reproducibility and governance.
+---
+
+📦 MLOps & Deployment
+- I deploy machine learning and AI models into scalable, production-ready environments:
+
+- Containerized ML workloads with Docker for reliable deployment across environments.
+
+- Built FastAPI and Flask APIs to serve ML models with low latency and structured endpoints.
+
+- Implemented CI/CD pipelines using GitHub Actions for automated testing and fast deployment.
+
+- Created interactive AI/ML apps with Streamlit and Gradio, enabling real-time user interaction.
+
+-  Optimized inference performance using ONNX Runtime, reducing model compute costs.
+---
+
+📊 Analytics, BI & Process Automation
+- I develop insight-driven dashboards and automate business operations:
+
+- Built operational and executive dashboards using Power BI, Tableau, and MicroStrategy.
+
+- Automated reporting and workflows using Power Automate, reducing repetitive tasks.
+
+- Created financial and ESG automations using Excel VBA + macros for data extraction and QC.
+
+- Conducted A/B testing for evaluating performance of data-driven product decisions.
+
+- Applied OCR (EasyOCR, Tesseract) to extract data from scanned financial and operational documents.
+---
+
+📚 Databases & Big Data
+- I work across both traditional and modern storage systems:
+
+- Designed and queried high-volume analytics workloads in Snowflake.
+
+- Built ACID-compliant lakehouse architectures using Delta Lake.
+
+- Developed document-based apps using MongoDB for flexible schema needs.
+
+- Integrated real-time backend features using Firebase Real-Time DB.
+
+- Used SQLite as a memory layer for lightweight agents and local data applications.
