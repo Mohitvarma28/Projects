@@ -36,13 +36,6 @@ This repository brings together my work in Data Science, Machine Learning, Deep 
   Learning Path Generator and Quiz Automation System**  
   Designed an intelligent platform that generates personalized learning paths and quizzes for students using Serper API for knowledge search.  
   Built backend APIs with **Flask** and deployed interactive interfaces using **Streamlit** to deliver dynamic student experiences.
----
-
-## 📈 Tableau Dashboards
-- **Netflix Portfolio Dashboard (Netflix Project.twbx)**:  
-  Storytelling with Netflix viewing patterns and content genres.
-- **COVID Dashboards**:  
-  COVID-19 impact visualization using SQL queries and Tableau storytelling.
 
 ---
 
